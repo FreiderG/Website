@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Website"
@@ -16,4 +17,15 @@ format:
     toc: true
 
 editor: visual
+
+
+any file with a .txt extension will be ignored
+
+
+
+
+
+
+
+
 
